@@ -17,3 +17,5 @@ Link video building reactive web forms: https://youtu.be/6oEu7YvrhLs
 Link video form validation: https://youtu.be/ggN18gLErrg
 
 Link video role based security: https://youtu.be/yVQF-mPVdPQ
+
+Link video advance aggregate: https://youtu.be/voUrjiqafc4
