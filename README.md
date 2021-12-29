@@ -1,4 +1,4 @@
-# outsystem_practice
+# Outsystem_Practice
 
 1. Link video data modeling: https://youtu.be/qzPtYPQfyok
 2. Link video reactive UI development: https://youtu.be/av3i1YEZaQQ
