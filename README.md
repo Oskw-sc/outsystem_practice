@@ -1,5 +1,7 @@
 # Outsystem_Practice
 
+Playlist on youtube: https://www.youtube.com/watch?v=qzPtYPQfyok&list=PLrBvQlIOUKAjEUZhKqtz1odZaqpSxdtLC
+
 1. Link video data modeling: https://youtu.be/qzPtYPQfyok
 2. Link video reactive UI development: https://youtu.be/av3i1YEZaQQ
 3. Link video logic: https://youtu.be/4p3ZFiUf9dU
